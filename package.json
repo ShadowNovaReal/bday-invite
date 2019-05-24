@@ -1,0 +1,19 @@
+{
+  "name": "hezekiah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite-pool": "^0.2.2",
+    "better-sqlite3": "^5.4.0",
+    "enmap": "^4.8.7",
+    "express": "^4.17.0"
+  }
+}
